@@ -3,7 +3,8 @@
 There are many clustering algorithm two of them are: <br>
 - K-means <br>
 - SOM 
-
+- GMM
+- 
 <h1>K-Means</h1>
 this method is the one of the oldest method and very popular <br>
 this algorithm has steps like below :<br>
@@ -14,3 +15,6 @@ this algorithm has steps like below :<br>
 
 <h1>SOM</h1>
 SOM (Self Orginizing map) or Kohonen Maps is one of ANN
+
+<h1>GMM</h1>
+GMM uses EM approcah , so there is Expectation step and Maximization step
