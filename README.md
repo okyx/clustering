@@ -1,6 +1,6 @@
 # clustering
 
-There are many clustering algorithm two of them are: <br>
+There are many clustering algorithm such as: <br>
 - K-means <br>
 - SOM 
 - GMM
