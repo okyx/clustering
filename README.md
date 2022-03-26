@@ -4,7 +4,6 @@ There are many clustering algorithm two of them are: <br>
 - K-means <br>
 - SOM 
 - GMM
-- 
 <h1>K-Means</h1>
 this method is the one of the oldest method and very popular <br>
 this algorithm has steps like below :<br>
