@@ -17,3 +17,4 @@ SOM (Self Orginizing map) or Kohonen Maps is one of ANN
 
 <h1>GMM</h1>
 GMM uses EM approcah , so there is Expectation step and Maximization step
+[google](www.google.com)
